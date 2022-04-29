@@ -7,23 +7,5 @@ public class PushAndPull {
 
 		
 		
-		// i just want to share this project to gitHub
-	}// i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-	
-	// i just want to share this project to gitHub// i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-	
-	// i just want to share this project to gitHub
-		// i just want to share this project to gitHub
-		// i just want to share this project to gitHub
-		
-		// i just want to share this project to gitHub// i just want to share this project to gitHub
-		// i just want to share this project to gitHub
-//i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-	
-	// i just want to share this project to gitHub// i just want to share this project to gitHub
-	// i just want to share this project to gitHub
+	}
 }
