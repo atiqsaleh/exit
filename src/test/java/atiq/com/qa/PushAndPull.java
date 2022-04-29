@@ -5,25 +5,7 @@ public class PushAndPull {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
-		
-		// i just want to share this project to gitHub
-	}// i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-	
-	// i just want to share this project to gitHub// i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-	
-	// i just want to share this project to gitHub
-		// i just want to share this project to gitHub
-		// i just want to share this project to gitHub
-		
-		// i just want to share this project to gitHub// i just want to share this project to gitHub
-		// i just want to share this project to gitHub
-//i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-	
-	// i just want to share this project to gitHub// i just want to share this project to gitHub
-	// i just want to share this project to gitHub
-}
+		String name = "Atiq";
+		System.out.println(name);
+	}	
+	}
