@@ -7,5 +7,31 @@ public class PushAndPull {
 
 		String name = "Atiq";
 		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		String name = "Atiq";
+		System.out.println(name);
+		
+		
 	}	
 	}
