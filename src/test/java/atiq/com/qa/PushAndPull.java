@@ -7,7 +7,8 @@ public class PushAndPull {
 
 	  
 		String Firstname = "Samer";
-		System.out.println(name);
+		System.out.println(Firstname);
+		
 		
 		
 		
