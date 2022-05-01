@@ -6,8 +6,8 @@ public class PushAndPull {
 	public static void main(String[] args) {
 
 	  
-		String Firstname = "";
-		System.out.println(fdsfdsf);
+		String Firstname = "kjl;";
+		System.out.println(Firstname);
 		String Firstname = "Atiq";
 		System.out.println(Firstname);
 		
