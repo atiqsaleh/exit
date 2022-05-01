@@ -7,10 +7,10 @@ public class PushAndPull {
 
 	  
 		String Firstname = "";
-		System.out.println();
+		System.out.println(fdsfdsf);
 		
 		String lastname = "";
-		System.out.println();
+		System.out.println(sdfsfsf);
 		
 		
 		
