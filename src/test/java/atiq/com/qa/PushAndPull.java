@@ -11,7 +11,9 @@ public class PushAndPull {
 	     // in the name of god the most mercefull and 
 		// second line to be add to all code
 		// third line should be add too
+	String name = "Atiq";
 		
+		System.out.println(name);
 		
 		
 	}
