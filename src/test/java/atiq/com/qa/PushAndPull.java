@@ -5,9 +5,8 @@ public class PushAndPull {
 
 	public static void main(String[] args) {
 
-		// dkjflksfj
-		// jlkdsjflk
-		// lkdjsflkjdslk
+		//dsjfkljjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		
 	  
 		String name = "Saleh";
 		System.out.println(name);
