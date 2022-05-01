@@ -7,6 +7,7 @@ public class PushAndPull {
 		// TODO Auto-generated method stub
      String name = "atiq";
      System.out.println("name");
+		Systme.out.println("Saleh")
 		
 		
 	}
