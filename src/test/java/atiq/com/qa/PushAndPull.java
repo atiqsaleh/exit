@@ -7,7 +7,7 @@ public class PushAndPull {
 
 	  
 		String name = "Saleh";
-		System.out.println(name);
+		
 		
 		
 		
