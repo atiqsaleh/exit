@@ -12,7 +12,7 @@ public class PushAndPull {
 		// i want to bring some chages to remote repostorty, go grab the latest code from 
 		// githup
 	  
-		
-		
+		String name = "Saleh";
+		System.out.println(name);
 	}
 }
