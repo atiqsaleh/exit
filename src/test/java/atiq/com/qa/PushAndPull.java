@@ -6,11 +6,11 @@ public class PushAndPull {
 	public static void main(String[] args) {
 
 	  
-		String Firstname = "Arsalan";
-		System.out.println(Firstname);
+		String Firstname = "";
+		System.out.println();
 		
-		String lastname = "siliman";
-		System.out.println(lastname);
+		String lastname = "";
+		System.out.println();
 		
 		
 		
